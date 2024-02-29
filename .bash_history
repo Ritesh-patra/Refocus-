@@ -10,3 +10,6 @@ git config --list
 git --version
 git --version
 git init
+-v
+git --v
+git -v
